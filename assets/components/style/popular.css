@@ -1,0 +1,23 @@
+.popular {
+    margin-top: 6rem;
+}
+
+.popular-title {
+    font-size: 1.9rem;
+    color: #FFF;
+    font-weight: 600;
+}
+
+.wrap-movies {
+    display: flex;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.popular__movie {
+    width: 330px;
+}
+
+.popular__movie:hover{
+    cursor: pointer;
+}

@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;500;600;700&display=swap');
 @import url(/assets/components/style/header.css);
 @import url(/assets/components/style/main.css);
+@import url(/assets/components/style/popular.css);
 
 
 body {
@@ -11,5 +12,6 @@ body {
     background-image: url(/assets/components/img/background/spider.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     padding: 4rem;
 }
