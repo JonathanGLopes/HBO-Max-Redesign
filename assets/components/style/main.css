@@ -1,0 +1,54 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 5rem;
+}
+
+.movie-info {
+    font-size: 1.2rem;
+    color: #FFF;
+}
+
+.movie-title {
+    font-size: 5rem;
+    color: #FFF;
+    width: 600px;
+    line-height: 6rem;
+    font-weight: 700;
+}
+
+.movie-category {
+    font-size: 1.9rem;
+    color: #FFF;
+}
+
+.wrap-imdb {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.imdb {
+    width: 53px;
+}
+
+.movie-note {
+    font-size: 1.75rem;
+    color: #FFF;
+}
+
+.button-play {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid #fff;
+    width: 10rem;
+    border-radius: 10px;
+    padding: 1rem;
+    color: #FFF;
+}
+
+.play-icon {
+    width: 20px;
+}
