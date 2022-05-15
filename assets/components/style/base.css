@@ -16,3 +16,11 @@ body {
     background-position: top;
     padding: 4rem;
 }
+
+.container-rise {
+    background-image: linear-gradient(to bottom, transparent 0%, rgb(10, 10, 10) 60%), url(/assets/components/img/background/rise.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    padding: 4rem;
+}
