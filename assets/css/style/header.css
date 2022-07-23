@@ -23,4 +23,5 @@
 
 .nav-links li:hover{
     cursor: pointer;
+    text-decoration: underline;
 }
