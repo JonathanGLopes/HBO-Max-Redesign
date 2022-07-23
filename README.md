@@ -8,3 +8,8 @@
 
 - HTML
 - CSS
+
+Deploy: https://hbo-max-redesign-tawny.vercel.app/
+
+Projeto desenvolvido com objetivo de reforçar os conhecimentos em CSS e aprender novos conceitos. <br>
+Design obtido no figma community: https://www.figma.com/file/zyW7X5yTuaSj0FtQS5kvOM/HBO-Max-Redesign-Web-App-(Community)?node-id=2%3A2
