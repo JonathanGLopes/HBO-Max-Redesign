@@ -14,3 +14,6 @@ Design obtido no figma community: https://www.figma.com/file/zyW7X5yTuaSj0FtQS5k
 - CSS
 
 Deploy: https://hbo-max-redesign-tawny.vercel.app/
+
+### Status
+- Finalizado
